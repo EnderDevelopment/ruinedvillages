@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "forgottenfrontier",
+  "version": "1.0.0",
+  "name": "Forgotten Frontier",
+  "description": "Discover abandoned buildings, village banks, and valuable caches, guided by a world survey map.",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.enderdevelopment.forgottenfrontier.ForgottenFrontierMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
